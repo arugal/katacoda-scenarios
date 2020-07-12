@@ -23,5 +23,4 @@ d80bece650be        mosnio/mosn-tutorial:mosn-with-skywalking-http-client   "/ht
 58dbbef3570d        mosnio/mosn-tutorial:mosn-with-skywalking-http-server   "/http-server"           2 minutes ago Up 2 minutes                                                                       http-server
 690091a18017        apache/skywalking-ui:7.0.0                              "bash docker-entrypo…"   2 minutes ago Up 2 minutes        0.0.0.0:80->8080/tcp                                           skywalking-ui
 ef827464bc53        apache/skywalking-oap-server:7.0.0-es7                  "bash docker-entrypo…"   2 minutes ago Up 2 minutes        0.0.0.0:11800->11800/tcp, 1234/tcp, 0.0.0.0:12800->12800/tcp   skywalking-oap
-
 ```
